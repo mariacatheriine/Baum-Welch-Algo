@@ -5,7 +5,7 @@
 Name: Catherine Maria Benny 
 
 Register Number: TCR24CS020
-  
+
 Course: Pattern Recognition  
 
 ---
@@ -127,8 +127,8 @@ HMM-Baum-Welch/
 
 1. Clone the repository
 
-   git clone https://github.com/yourusername/your-repository-name.git  
-   cd your-repository-name  
+   git clone https://github.com/mariacatheriine/Baum-Welch-Algo.gitt  
+   cd Baum-Welch-Algo  
 
 2. Install dependencies
 
