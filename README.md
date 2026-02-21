@@ -127,7 +127,7 @@ HMM-Baum-Welch/
 
 1. Clone the repository
 
-   git clone https://github.com/mariacatheriine/Baum-Welch-Algo.gitt  
+   git clone https://github.com/mariacatheriine/Baum-Welch-Algo.git
    cd Baum-Welch-Algo  
 
 2. Install dependencies
