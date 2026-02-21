@@ -3,7 +3,9 @@
 ## Student Details
 
 Name: Catherine Maria Benny 
-Register Number: TCR24CS020  
+
+Register Number: TCR24CS020
+  
 Course: Pattern Recognition  
 
 ---
